@@ -1,0 +1,16 @@
+name: Notificación de Push a Main
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar notificación a ntfy.sh
+        run: |
+          curl -d "El Repositorio: $GITHUB_REPOSITORY, Commit: $GITHUB_SHA" \
+          -H "Title: Actualización de código" \
+          -H "Priority: high" \
+          https://ntfy.sh/devops-itla
