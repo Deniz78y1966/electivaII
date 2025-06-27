@@ -1,0 +1,14 @@
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/bin/Debug/net9.0/TaxonomiaFlynn
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/bin/Debug/net9.0/TaxonomiaFlynn.deps.json
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/bin/Debug/net9.0/TaxonomiaFlynn.runtimeconfig.json
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/bin/Debug/net9.0/TaxonomiaFlynn.dll
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/bin/Debug/net9.0/TaxonomiaFlynn.pdb
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.AssemblyInfoInputs.cache
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.AssemblyInfo.cs
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.csproj.CoreCompileInputs.cache
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.dll
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/refint/TaxonomiaFlynn.dll
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.pdb
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/TaxonomiaFlynn.genruntimeconfig.cache
+/Users/genesisdenissematosrosario/Documents/Paralela/TaxonomiaFlynn/obj/Debug/net9.0/ref/TaxonomiaFlynn.dll
